@@ -68,8 +68,8 @@ This file contains the shortcuts to all the apps in the so called "Premium" cate
 I haven't tested this, but you should use a unique ID number in ```<objectId>3</objectId>```.
 
 Then, transfer these new files:
-* <code>/3rd_rw/appdata/launcher/res/amazon.png</code>
-* <code>/3rd_rw/internet_browser/bws_profile.ini</code>
+* <code>[/3rd_rw/appdata/launcher/res/amazon.png](https://raw.githubusercontent.com/giofrida/Hisense-Amazon-Enabler/main/3rd_rw/appdata/launcher/res/amazon.png)</code>
+* <code>[/3rd_rw/internet_browser/bws_profile.ini](https://raw.githubusercontent.com/giofrida/Hisense-Amazon-Enabler/main/3rd_rw/internet_browser/bws_profile.ini)</code>
 
 Restart the TV and you can finally launch the Amazon Prime Video app.
 
